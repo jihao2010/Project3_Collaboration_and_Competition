@@ -41,8 +41,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 Clone the repository (if you haven't already!), and navigate to the `python/` folder.  Then, install several dependencies.
 ```bash
-git clone https://github.com/udacity/deep-reinforcement-learning.git
-cd deep-reinforcement-learning/python
+git clone https://github.com/jihao2010/Project3_Collaboration_and_Competition.git
 pip install .
 ```
 
@@ -69,9 +68,8 @@ The requirements.txt includes the followings
 Open the jupyter notebook with the following commands.
 
 ```bash
-git clone https://github.com/udacity/deep-reinforcement-learning.git
-cd deep-reinforcement-learning/python
-jupyter notebook p3_collab-compet/Tennis.ipynb
+git clone https://github.com/jihao2010/Project3_Collaboration_and_Competition.git
+jupyter notebook Tennis.ipynb
 ```
 
 Then in the page opened in your default browser, press run button to run each jupyter notebook cells from top to buttom.
